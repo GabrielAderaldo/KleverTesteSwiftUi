@@ -37,6 +37,13 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		324509F7268B913E002B3885 /* Components */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Components;
+			sourceTree = "<group>";
+		};
 		3267BE93268A47F70046D62A = {
 			isa = PBXGroup;
 			children = (
@@ -56,6 +63,7 @@
 		3267BE9E268A47F70046D62A /* KleverTeste */ = {
 			isa = PBXGroup;
 			children = (
+				324509F7268B913E002B3885 /* Components */,
 				3267BE9F268A47F70046D62A /* AppDelegate.swift */,
 				3267BEA1268A47F70046D62A /* SceneDelegate.swift */,
 				3267BEA3268A47F70046D62A /* ContentView.swift */,
